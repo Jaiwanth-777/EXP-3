@@ -41,20 +41,16 @@ switch2.
 
 # Direct connection: 
 CIRCUIT DIAGRAM: 
-<img width="893" height="488" alt="image" src="https://github.com/user-attachments/assets/b87711a9-afe4-40d9-9421-073783de2cbe" />
 
-Tabulation:1
+![1](https://github.com/user-attachments/assets/9933aa2e-5ec8-43a9-9fb8-4a216edb57dc)
 
-<img width="572" height="283" alt="image" src="https://github.com/user-attachments/assets/bad068ce-4353-4694-915c-942272732b1d" />	
+![2](https://github.com/user-attachments/assets/839a0003-3df3-46fb-b6ce-7b263d95fa76)
+
+![3](https://github.com/user-attachments/assets/4b20ef8d-6f7d-42f9-850b-c69041bf7aff)
+
+
 <img width="1488" height="710" alt="492712337-9c4dd380-31c4-4d93-994c-5faf0942d9be" src="https://github.com/user-attachments/assets/8ce175fd-5aff-41c9-b243-ecf41984ad0c" />
 
-# Cross connection:
-CIRCUIT DIAGRAM:
-<img width="947" height="529" alt="image" src="https://github.com/user-attachments/assets/917af283-cd6e-45a1-977c-d8807f70e3ec" />
-
-Tabulation:2
-
-<img width="546" height="268" alt="image" src="https://github.com/user-attachments/assets/f6ea5f15-6704-44b3-accd-2ceddfba46db" />
 <img width="1476" height="706" alt="495084504-b38b39bd-e127-4a09-a6f3-be6d695cbda8" src="https://github.com/user-attachments/assets/50b849da-06fc-44ed-bb61-341808a553a2" />
 
 RESULT:
